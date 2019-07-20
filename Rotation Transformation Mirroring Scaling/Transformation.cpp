@@ -1,6 +1,6 @@
 
 #include <bits/stdc++.h>
-
+#include <stdio.h>
 #include <GL/glut.h>
 
 using namespace std;
